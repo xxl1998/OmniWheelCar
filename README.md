@@ -7,13 +7,13 @@ a mini smart car with 4 omni wheels,controlled by a STM32F103RET6 MCU,powered by
 
 ## 高频问题解答：  --
 ## 预览PCB
-![Image_text](https://github.com/xxl1998/OpenMVX/blob/master/images/PCB-3D view.png)
-![Image_text](https://github.com/xxl1998/OpenMVX/blob/master/images/PCB-2D view.png)
-![Image_text](https://github.com/xxl1998/OpenMVX/blob/master/images/PCB%203D图bottom.png)
+![Image_text](https://github.com/xxl1998/OmniWheelCar/blob/master/images/PCB-3D%20view.png)
+![Image_text](https://github.com/xxl1998/OmniWheelCar/blob/master/images/PCB-2D%20view.png)
+![Image_text](https://github.com/xxl1998/OmniWheelCar/blob/master/images/PCB-V2.png)
 
 ## 实拍效果
-![Image_text](https://github.com/xxl1998/OpenMVX/blob/master/images/第二代-PCB车架-整车效果.jpg)
-![Image_text](https://github.com/xxl1998/OpenMVX/blob/master/images/第一代-亚克力车架.jpg)
+![Image_text](https://github.com/xxl1998/OmniWheelCar/blob/master/images/第二代-PCB车架-整车效果.jpg)
+![Image_text](https://github.com/xxl1998/OmniWheelCar/blob/master/images/第一代-亚克力车架.jpg)
 
 ### 有任何技术问题，可加QQ群 923703530
 ### 更多技术分享和作品开源分享，可关注微信公众号： 飞觞醉月    
